@@ -3,6 +3,8 @@
 Search books and audiobooks across the libaries from [Open Slum](https://open-slum.org/) (Z-Library, Anna’s Archive, LibGen,
 Memory of the World etc.).
 
+Only download content you are authorized to access. A service account or subscription does not grant rights to a book.
+
 ## Install
 
 1. Download `index.mjs` from the [latest release](https://github.com/orbitverse/bookorbit-shadowlib-plugin/releases/latest).
