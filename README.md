@@ -1,7 +1,7 @@
 # BookOrbit ShadowLib
 
-Search books and audiobooks across the libaries from [Open Slum](https://open-slum.org/)  (Z-Library, Anna’s Archive, LibGen,
-Memory of the World etc.). 
+Search books and audiobooks across the libaries from [Open Slum](https://open-slum.org/) (Z-Library, Anna’s Archive, LibGen,
+Memory of the World etc.).
 
 ## Install
 
