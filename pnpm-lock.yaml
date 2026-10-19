@@ -170,8 +170,8 @@ importers:
         specifier: ^1.2.0
         version: 1.2.0
       effect:
-        specifier: ^4.0.4
-        version: 4.0.4
+        specifier: ^4.0.5
+        version: 4.0.5
     devDependencies:
       '@orbitverse/bookorbit-plugin-tools':
         specifier: git+https://github.com/orbitverse/bookorbit-plugin-tools.git#d1eee42f92c98c501268acfa369c3f6d29b80496
@@ -756,8 +756,8 @@ packages:
   domutils@3.2.2:
     resolution: {integrity: sha512-6kZKyUajlDuqlHKVX1w7gyslj9MPIXzIFiz/rGu35uC1wMi+kMhQwGhl4lt9unC9Vb9INnY9Z3/ZA3+FhASLaw==}
 
-  effect@4.0.4:
-    resolution: {integrity: sha512-Sr50OeVSC3M5UkoUYUhFf3EULryhGaZZUf6OzDHTvaznOw7HRlxOKdF3/4nvQXHL22StOyMG3Cvo8Bt7xUp+Ng==}
+  effect@4.0.5:
+    resolution: {integrity: sha512-BY4/28NlpOd99yzmV741xbVGmp+1U7tks4oB7F/Png64bTa5tm5eCA6W0RiXsnuLDDoJpjfVSo4Dnq4BZb/89Q==}
 
   encoding-sniffer@0.2.1:
     resolution: {integrity: sha512-5gvq20T6vfpekVtqrYQsSCFZ1wEg5+wW0/QaZMWkFr6BqD3NfKs0rLCx4rrVlSWJeZb5NBJgVLswK/w2MWU+Gw==}
@@ -1263,7 +1263,7 @@ snapshots:
       domelementtype: 2.3.0
       domhandler: 5.0.3
 
-  effect@4.0.4: {}
+  effect@4.0.5: {}
 
   encoding-sniffer@0.2.1:
     dependencies:
