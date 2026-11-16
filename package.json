@@ -19,12 +19,12 @@
   "type": "module",
   "dependencies": {
     "cheerio": "^1.2.0",
-    "effect": "^4.0.4"
+    "effect": "^4.1.4"
   },
   "devDependencies": {
-    "@types/node": "^26.6.5",
-    "knip": "^6.41.0",
-    "prettier": "^3.9.10",
+    "@types/node": "^26.6.6",
+    "knip": "^6.45.1",
+    "prettier": "^3.10.1",
     "tsx": "^4.23.15",
     "typescript": "^7.0.2",
     "@orbitverse/bookorbit-plugin-tools": "git+https://github.com/orbitverse/bookorbit-plugin-tools.git#d1eee42f92c98c501268acfa369c3f6d29b80496"
